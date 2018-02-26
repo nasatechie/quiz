@@ -1,7 +1,3 @@
-# Up & Running with Angular
-
-This repo is for [Udacity](https://www.udacity.com/)'s Front End Frameworks course.
-
 ## Required Software
 
 Make sure you have the following software installed:
